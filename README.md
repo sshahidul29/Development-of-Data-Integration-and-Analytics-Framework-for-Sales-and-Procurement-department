@@ -1,14 +1,10 @@
 # Requirements:
-- Build an Enterprise Data warehouse that addresses the analytic requirements
-- Build Data Mart Cubes for functional areas based on the analytic requirements using SQL Server Analysis Services
-- Using Tableau and Power BI to design Data Visualisations for business users and management to enable informed decisions
+- Building Enterprise Data Warehousing Solution that addresses the analytic requirements
+- Building Data Mart Cubes for functional areas based on the analytic requirements using SQL Server Analysis Services
+- Using Power BI to design Data Visualisations for business users and management to enable informed decisions
 
-# Models are trained based on two output parameters
-- Case Fatality Ratio (CFR)
-- CFR = Cumulative number of deaths / Cumulative number of cases
-
-- COVID-19 Spreading Ratio (CSR)
-- CSR = Cumulative number of cases / Total population
+# Enterprise Data Warehouse Galaxy Schema was built using the Dimensional Modelling technique pioneered by Ralph Kimball.
+![pop_65+](Results/pumpkin-coloring-pages-decorative-patterned-pumpkin-with-leaf-400x518.png?raw=true "Title")
 
 # Data collection strategy
 - Data are collected from 57 locations from all over the world
