@@ -2,13 +2,67 @@
 - Building Enterprise Data Warehousing Solution that addresses the analytic requirements
 - Building Data Mart Cubes for functional areas based on the analytic requirements using SQL Server Analysis Services
 - Using Power BI to design Data Visualisations for business users and management to enable informed decisions
+  # Project Name
+
+This is a brief description of your project.
+
+## Overview
+
+This project comprises five distinct Business Processes, each with its own end-to-end solutions.
+
+## Business Processes
+
+### Process 1: [Process Name]
+
+- Description: Provide a brief description of the first Business Process.
+- End-to-End Solution: Describe the complete solution for this process.
+
+### Process 2: [Process Name]
+
+- Description: Provide a brief description of the second Business Process.
+- End-to-End Solution: Describe the complete solution for this process.
+
+### Process 3: [Process Name]
+
+- Description: Provide a brief description of the third Business Process.
+- End-to-End Solution: Describe the complete solution for this process.
+
+### Process 4: [Process Name]
+
+- Description: Provide a brief description of the fourth Business Process.
+- End-to-End Solution: Describe the complete solution for this process.
+
+### Process 5: [Process Name]
+
+- Description: Provide a brief description of the fifth Business Process.
+- End-to-End Solution: Describe the complete solution for this process.
+
+## Installation
+
+Include any instructions or prerequisites required for setting up and running the project.
+
+## Usage
+
+Provide information on how to use the project or the Business Processes within it.
+
+## Contributing
+
+Explain how others can contribute to the project if it's open-source or if you're accepting contributions.
+
+## License
+
+Specify the project's license if applicable.
+
+## Contact
+
+Provide contact information or links for questions or support related to the project.
 
 # Galaxy Schema:
 - Enterprise Data Warehouse was built based on a dimensional modelling technique pioneered by Ralph Kimball
 ![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxy%20Schema.PNG?raw=true "Galaxy Schema")
 
 # Bus  Matrix: 
-This project contains 5 Business Process 
+This project contains 5 Business Processes and every one have their own end-to-end solutions. 
 ### Business Process: 
 #### 1. Sales Analysis
 #### 2. Purchase Analysis
