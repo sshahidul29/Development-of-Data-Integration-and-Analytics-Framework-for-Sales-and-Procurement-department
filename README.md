@@ -5,7 +5,7 @@ It comprises five distinct **Business Processes**, each with its own end-to-end 
 
 ### Process 1: [Sales Analysis]
 
-- Description: Provide a brief description of the first Business Process.
+- Description: The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases. It included data analysis using SQL Server Analysis Services (SSAS) to build cubes for multi-dimensional analysis. These cubes supported interactive dashboards and data visualizations for informed decision-making.
 - End-to-End Solution: Describe the complete solution for this process.
 
 ### Process 2: [Purchase Analysis]
