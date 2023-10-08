@@ -8,17 +8,17 @@
 ![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxy%20Schema.PNG?raw=true "Galaxy Schema")
 
 # Bus  Matrix: 
-### Business Proces:
+### Business Process:
 #### 1. Sales Analysis
-![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
+![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
 #### 2. Purchase Analysis
-![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Purchase.PNG)
+![Purchase Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Purchase.PNG)
 #### 3. Misconduct Analysis
-![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Misconduct.PNG)
+![Misconduct Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Misconduct.PNG)
 #### 4. Overtime Analysis
-![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/overtime.PNG)
+![Overtime Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/overtime.PNG)
 #### 5. Absent Analysis
-![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Absent.PNG)
+![Absent Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Absent.PNG)
 
 # Data collection strategy
 - Data are collected from 57 locations from all over the world
