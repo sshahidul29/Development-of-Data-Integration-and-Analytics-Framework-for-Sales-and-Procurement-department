@@ -8,7 +8,12 @@
 ![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxy%20Schema.PNG?raw=true "Galaxy Schema")
 
 # Bus  Matrix: 
-### Business Process:
+### Business Process: 
+#### 1. Sales Analysis
+#### 2. Purchase Analysis
+#### 3. Misconduct Analysis
+#### 4. Overtime Analysis
+#### 5. Absent Analysis
 #### 1. Sales Analysis
 ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
 #### 2. Purchase Analysis
