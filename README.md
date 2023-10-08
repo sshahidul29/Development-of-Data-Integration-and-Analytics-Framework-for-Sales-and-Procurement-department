@@ -3,8 +3,9 @@
 - Building Data Mart Cubes for functional areas based on the analytic requirements using SQL Server Analysis Services
 - Using Power BI to design Data Visualisations for business users and management to enable informed decisions
 
-# Galaxy Schema.
-![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxy%20Schema.PNG)
+# Galaxy Schema
+- Enterprise Data Warehouse was built based on a dimensional modelling technique pioneered by Ralph Kimball
+![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxy%20Schema.PNG?raw=true "Galaxy Schema")
 
 # Data collection strategy
 - Data are collected from 57 locations from all over the world
