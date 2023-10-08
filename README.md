@@ -16,7 +16,7 @@
 #### 3. Misconduct Analysis
 ![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Misconduct.PNG)
 #### 4. Overtime Analysis
-![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Overtime.PNG)
+![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/overtime.PNG)
 #### 5. Absent Analysis
 ![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Absent.PNG)
 
