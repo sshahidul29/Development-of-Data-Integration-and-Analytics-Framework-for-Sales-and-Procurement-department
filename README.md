@@ -7,6 +7,15 @@
 - Enterprise Data Warehouse was built based on a dimensional modelling technique pioneered by Ralph Kimball
 ![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxy%20Schema.PNG?raw=true "Galaxy Schema")
 
+# Bus  Matrix
+## Business Proces
+- Sales Analysis
+- Purchase Analysis
+- Misconduct Analysis
+- Overtime Analysis
+- Absent Analysis
+![image](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/assets/45549865/3afa373c-2973-4efc-a002-825add73555f)
+
 # Data collection strategy
 - Data are collected from 57 locations from all over the world
 - We have divided the locations into 5 categories where the locations in each category have the similar density of 65+ aged population.  
