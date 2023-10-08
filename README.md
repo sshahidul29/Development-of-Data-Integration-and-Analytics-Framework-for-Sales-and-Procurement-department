@@ -65,7 +65,7 @@
 
 # Figures:
 # Training Convergence [CFR]: 
-![TrainConvg](/Figures/funny-jaguar-coloring-page.png?raw=true "Title")
+![TrainConvg](/Figures/dw_architecture.png?raw=true "Title")
 # Training Convergence [CSR]: 
 ![TrainConvgCSR](Sohel/1542844586079.jpg?raw=true "Title")
 # Parameter correlation: 
