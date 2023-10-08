@@ -10,13 +10,15 @@
 # Bus  Matrix 
 ### Business Proces
 #### 1. Sales Analysis
-  
-  ![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG?raw=true "Galaxy Schema")
-- Purchase Analysis
-- Misconduct Analysis
-- Overtime Analysis
-- Absent Analysis
-![image](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/assets/45549865/3afa373c-2973-4efc-a002-825add73555f)
+![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
+#### 2. Purchase Analysis
+![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Purchase.PNG)
+#### 3. Misconduct Analysis
+![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Misconduct.PNG)
+#### 4. Overtime Analysis
+![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Overtime.PNG)
+#### 5. Absent Analysis
+![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Absent.PNG)
 
 # Data collection strategy
 - Data are collected from 57 locations from all over the world
