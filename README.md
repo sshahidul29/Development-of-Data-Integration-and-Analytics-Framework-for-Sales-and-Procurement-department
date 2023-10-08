@@ -3,29 +3,27 @@ This project aims to empower Our Retail client's with data-driven insights and d
 
 It comprises five distinct **Business Processes**, each with its own end-to-end solutions.
 
-## Business Processes
-
-### Process 1: [Process Name]
+### Process 1: [Sales Analysis]
 
 - Description: Provide a brief description of the first Business Process.
 - End-to-End Solution: Describe the complete solution for this process.
 
-### Process 2: [Process Name]
+### Process 2: [Purchase Analysis]
 
 - Description: Provide a brief description of the second Business Process.
 - End-to-End Solution: Describe the complete solution for this process.
 
-### Process 3: [Process Name]
+### Process 3: [Misconduct Analysis]
 
 - Description: Provide a brief description of the third Business Process.
 - End-to-End Solution: Describe the complete solution for this process.
 
-### Process 4: [Process Name]
+### Process 4: [Overtime Analysis]
 
 - Description: Provide a brief description of the fourth Business Process.
 - End-to-End Solution: Describe the complete solution for this process.
 
-### Process 5: [Process Name]
+### Process 5: [Absent Analysis]
 
 - Description: Provide a brief description of the fifth Business Process.
 - End-to-End Solution: Describe the complete solution for this process.
