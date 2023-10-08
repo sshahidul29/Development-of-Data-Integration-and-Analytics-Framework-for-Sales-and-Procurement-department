@@ -22,7 +22,7 @@
 
 # Data collection strategy
 - Data are collected from 57 locations from all over the world
-- We have divided the locations into 5 categories where the locations in each category have thesimilar density of 65+ aged population.  
+- We have divided the locations into 5 categories where the locations in each category have thesimilar density of 65+ aged population.   
 - Distribution of population density over 65+ aged people: 
 ![TrainConvg](/Figures/Galaxy Schema.png?raw=true "Title")
 ![TrainConvg](/Figures/Galaxy Schema.png?raw=true "Galaxy Schema")
