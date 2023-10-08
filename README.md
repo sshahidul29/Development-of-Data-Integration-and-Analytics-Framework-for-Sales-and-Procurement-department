@@ -10,7 +10,7 @@
 - Data are collected from 57 locations from all over the world
 - We have divided the locations into 5 categories where the locations in each category have the similar density of 65+ aged population.  
 - Distribution of population density over 65+ aged people: 
-![pop_65+](Results/pumpkin-coloring-pages-decorative-patterned-pumpkin-with-leaf-400x518.png?raw=true "Title")
+![pop_65+](Figures/Galaxy Schema.JPG?raw=true "Title")
 
 # Input dataset:
 - We have total 22 input features in the dataset.
