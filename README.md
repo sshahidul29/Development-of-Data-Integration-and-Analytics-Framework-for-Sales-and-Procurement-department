@@ -9,7 +9,7 @@
 
 # Bus  Matrix 
 ### Business Proces
-#### Sales Analysis
+#### 1. Sales Analysis
   
   ![Alt Text](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG?raw=true "Galaxy Schema")
 - Purchase Analysis
