@@ -4,7 +4,7 @@
 - Using Power BI to design Data Visualisations for business users and management to enable informed decisions
 
 # Enterprise Data Warehouse Galaxy Schema was built using the Dimensional Modelling technique pioneered by Ralph Kimball.
-![pop_65+](/Figures/Galaxy Schema.PNG?raw=true "Galaxy Schema")
+![TrainConvg](/Figures/Galaxy Schema.png?raw=true "Galaxy Schema")
 
 # Data collection strategy
 - Data are collected from 57 locations from all over the world
