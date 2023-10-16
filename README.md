@@ -12,7 +12,9 @@ It comprises five distinct **Business Processes**, each with its own end-to-end 
 
 ### Process 2: [Purchase Analysis]
 
-- Description: Provide a brief description of the second Business Process.
+- Description: The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases. It included data analysis using SQL Server Analysis Services (SSAS) to build cubes for multi-dimensional analysis. These cubes supported interactive dashboards and data visualizations for informed decision-making.
+  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
+*Figure 1: Purchase Analysis Star Schema*
 - End-to-End Solution: Describe the complete solution for this process.
 
 ### Process 3: [Misconduct Analysis]
