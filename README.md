@@ -12,12 +12,16 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Product.PNG)
  *Figure 2: Sales ETL Pipeline for Product dimension*
+  
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesETL.PNG)
 *Figure 3: Incremental load of ETL Pipeline for Factsales*
+
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
 *Figure 4: Sales Cube for Multidimensional Analysis*
+
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/salesTab.PNG)
 *Figure 5: Sales Cube for Tabular Analysis*
+
 - End-to-End Solution: Describe the complete solution for this process.
 
 ### Process 2: [Purchase Analysis]
