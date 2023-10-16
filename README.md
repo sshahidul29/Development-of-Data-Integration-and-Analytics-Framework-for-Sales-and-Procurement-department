@@ -1,7 +1,7 @@
 # Overview
 This project aims to empower our retail client with data-driven insights and decision-making capabilities by providing a robust data infrastructure and actionable analytics. It involves integrating, cleaning, and structuring data, creating analytical models, and presenting the results in a user-friendly format through data visualizations and dashboards.
 
-It comprises to distinct **Business Processes**, each with its own end-to-end analysis, design, and development.
+It comprises two distinct **Business Processes**, each with its own end-to-end analysis, design, and development.
 
 ### Process 1: [Sales Analysis]
 
