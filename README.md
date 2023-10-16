@@ -10,13 +10,14 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
 *Figure 1: Sales Analysis Star Schema*
 
-## Process 1: [Sales Analysis]
+### ETL Pipeline was built in Visual Studio using SSIS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Product.PNG)
 
  *Figure 2: Sales ETL Pipeline for Product dimension*
 
   ## Process 1: [Sales Analysis]
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesETL.PNG)
+
 *Figure 3: Incremental load of ETL Pipeline for Factsales*
 
 ## Process 1: [Sales Analysis]
