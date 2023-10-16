@@ -22,6 +22,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 ### Datamart was built using SSAS for Business Users
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
+
 *Figure 4: Sales Cube for Multidimensional Analysis*
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/salesTab.PNG)
