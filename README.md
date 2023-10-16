@@ -19,11 +19,13 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
 *Figure 3: Incremental load of ETL Pipeline for Factsales*
 
-### Datamart was built in Visual Studio using SSAS for Business Users
+### Datamart was built using SSAS for Business Users
+
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
 *Figure 4: Sales Cube for Multidimensional Analysis*
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/salesTab.PNG)
+
 *Figure 5: Sales Cube for Tabular Analysis*
 
 - End-to-End Solution: Describe the complete solution for this process.
