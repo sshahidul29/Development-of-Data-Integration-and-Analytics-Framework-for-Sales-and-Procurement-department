@@ -6,19 +6,23 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 ## Process 1: [Sales Analysis]
 
 - Description: The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source. It included data analysis using SQL Server Analysis Services (SSAS) to build cubes for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
-  ### Process 1: [Sales Analysis]
+  ### Enterprise Data Warehouse was built in MySQL Server using SSMS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
 *Figure 1: Sales Analysis Star Schema*
 
+## Process 1: [Sales Analysis]
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Product.PNG)
  *Figure 2: Sales ETL Pipeline for Product dimension*
-  
+
+  ## Process 1: [Sales Analysis]
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesETL.PNG)
 *Figure 3: Incremental load of ETL Pipeline for Factsales*
 
+## Process 1: [Sales Analysis]
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
 *Figure 4: Sales Cube for Multidimensional Analysis*
 
+## Process 1: [Sales Analysis]
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/salesTab.PNG)
 *Figure 5: Sales Cube for Tabular Analysis*
 
