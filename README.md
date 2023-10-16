@@ -12,6 +12,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
 ## Process 1: [Sales Analysis]
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Product.PNG)
+
  *Figure 2: Sales ETL Pipeline for Product dimension*
 
   ## Process 1: [Sales Analysis]
