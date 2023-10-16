@@ -9,7 +9,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
 *Figure 1: Sales Analysis Star Schema*
 
- ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
+ ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Product.PNG)
 *Figure 1: Sales ETL Pipeline for Product dimension*
 - End-to-End Solution: Describe the complete solution for this process.
 
