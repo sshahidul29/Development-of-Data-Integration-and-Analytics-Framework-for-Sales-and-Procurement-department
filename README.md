@@ -5,13 +5,15 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 ## Business Process 1: [Sales Analysis]
 ## Business Process 2: [Purchase Analysis]
 
-- Description: The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source. It included data analysis using SQL Server Analysis Services (SSAS) to build cubes for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
+- Description:  It included 
 
 ## Enterprise Data Warehouse was built in MySQL Server using SSMS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
 *Figure 1: Sales and Purchase Galaxyschema Schema *
 
 ## ETL Pipeline was built in Visual Studio using SSIS
+- The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source.
+  
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
 
  *Figure 2: Control-flow diagram for ETL Pipeline *
@@ -29,6 +31,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 *Figure 5: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent *
 
 ## Datamart was built using SSAS for Business Users
+- Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
 
