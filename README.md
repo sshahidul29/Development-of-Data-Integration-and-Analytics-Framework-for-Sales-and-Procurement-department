@@ -7,11 +7,11 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
 - Description: The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source. It included data analysis using SQL Server Analysis Services (SSAS) to build cubes for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
 
-  ### Enterprise Data Warehouse was built in MySQL Server using SSMS
+## Enterprise Data Warehouse was built in MySQL Server using SSMS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
 *Figure 1: Sales and Purchase Galaxyschema Schema*
 
-### ETL Pipeline was built in Visual Studio using SSIS
+## ETL Pipeline was built in Visual Studio using SSIS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
 
  *Figure 2: Control-flow diagram for ETL Pipeline*
@@ -28,7 +28,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
 *Figure 5: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent*
 
-### Datamart was built using SSAS for Business Users
+## Datamart was built using SSAS for Business Users
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
 
@@ -46,13 +46,13 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
 *Figure 9: Purchase Cube for Tabular Analysis*
 
-### Reports were generated using SSRS
+## Reports were generated using SSRS
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/ReportS.PNG)
 
 *Figure 6: Sales Analysis*
 
-### Data Analysis samples using PowerBI
+## Data Analysis in PowerBI
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB1.PNG)
 
