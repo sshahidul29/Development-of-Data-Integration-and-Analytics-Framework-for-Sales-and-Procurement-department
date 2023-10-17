@@ -2,12 +2,11 @@
 This project aims to empower our retail client with data-driven insights and decision-making capabilities by providing a robust data infrastructure and actionable analytics. It involves integrating, cleaning, and structuring data, creating analytical models, and presenting the results in a user-friendly format through data visualizations and dashboards.
 
 It comprises two distinct **Business Processes**, each with its own end-to-end analysis, design, and development.
-### Process 1: [Sales Analysis]
-### Process 2: [Purchase Analysis]
+## Business Process 1: [Sales Analysis]
+## Business Process 2: [Purchase Analysis]
 
   ### Enterprise Data Warehouse was built in MySQL Server using SSMS
-  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)
-  
+  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
 *Figure 1: Sales and Purchase Galaxyschema Schema*
 
 ## Process 1: [Sales Analysis]
