@@ -30,9 +30,23 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 *Figure 5: Sales Cube for Tabular Analysis*
 
 - End-to-End Solution: Describe the complete solution for this process.
-  ### Reports were generated using SSRS to train Business Users
+  ### Reports were generated using SSRS
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/ReportS.PNG)
+
+*Figure 5: Sales Cube for Tabular Analysis*
+
+### Data Analysis samples using PowerBI
+
+ ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB1.PNG)
+
+*Figure 4: Sales Cube for Multidimensional Analysis*
+
+ ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB2.PNG)
+
+*Figure 5: Sales Cube for Tabular Analysis*
+
+ ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/salesPB4.PNG)
 
 *Figure 5: Sales Cube for Tabular Analysis*
 
