@@ -63,7 +63,7 @@ Figure 9: Purchase Cube for Tabular Analysis
 ## Reports were generated using SSRS
 
 - Experienced in SQL querying and development spanning stored procedures, de-duplication, views, functions, and cursors for reports.
-- Developed advanced dashboards and reports for higher authority.
+- Developed advanced dashboards and reports for informed decision-making.
   
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/ReportS.PNG)
 
