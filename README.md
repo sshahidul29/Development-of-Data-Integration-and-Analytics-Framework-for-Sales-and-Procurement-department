@@ -1,10 +1,12 @@
-# Overview
+## Overview
+
 This project aims to empower our retail client with data-driven insights and decision-making capabilities by providing a robust data infrastructure and actionable analytics. It involves integrating, cleaning, and structuring data, creating analytical models, and presenting the results in a user-friendly format through data visualizations and dashboards.
 
 It comprises two distinct **Business Processes**, each with its own end-to-end analysis, design, and development.
 ### Business Processes are 1. Sales Analysis and 2. Purchase Analysis
 
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
+
 - Led complete database lifecycle management including installation, upgrade, troubleshooting, migration, and security.
 - Conducted stakeholder analysis and requirements gathering sessions, aligning data with business needs.
 - Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
@@ -15,10 +17,11 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 Figure 1: Sales and Purchase Galaxyschema Schema
 
 ## ETL Pipeline was built in Visual Studio using SSIS
+
 - The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source.
 - Wrote ETL packages to extract, transform and load data from the OLEDB source to Staging and staging to EDW Databases.
 - Created a metric table for an audit of Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
-- Created a server agent to schedule the loading of Staging and Warehouse Database.
+- Implemented server agent for automated data loading and scheduling.
 
   
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
@@ -38,6 +41,7 @@ Figure 4: Data-flow diagram for Incremental load of ETL Pipeline for Factsales
 Figure 5: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
 
 ## Datamart was built using SSAS for Business Users
+
 - Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
@@ -58,12 +62,18 @@ Figure 9: Purchase Cube for Tabular Analysis
 
 ## Reports were generated using SSRS
 
+- Experienced in SQL querying and development spanning stored procedures, de-duplication, views, functions, and cursors for reports.
+- Developed advanced dashboards and reports for higher authority.
+  
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/ReportS.PNG)
 
 Figure 10: Sales Analysis
 
 ## Data Analysis in PowerBI
 
+- Modeled data based on Star and Snowflake Schema to enhance data accessibility. 
+- Created interactive Power BI dashboard and reports for informed decision-making.
+   
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB1.PNG)
 
 Figure 11: Sales Analysis
