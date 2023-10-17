@@ -5,8 +5,6 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 ## Business Process 1: [Sales Analysis]
 ## Business Process 2: [Purchase Analysis]
 
-- Description:  It included 
-
 ## Enterprise Data Warehouse was built in MySQL Server using SSMS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
 *Figure 1: Sales and Purchase Galaxyschema Schema *
