@@ -9,48 +9,48 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
 ## Enterprise Data Warehouse was built in MySQL Server using SSMS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
-*Figure 1: Sales and Purchase Galaxyschema Schema*
+*Figure 1: Sales and Purchase Galaxyschema Schema *
 
 ## ETL Pipeline was built in Visual Studio using SSIS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
 
- *Figure 2: Control-flow diagram for ETL Pipeline*
+ *Figure 2: Control-flow diagram for ETL Pipeline *
 
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Product.PNG)
 
- *Figure 3: Data-flow diagram of ETL Pipeline for Product dimension*
+ *Figure 3: Data-flow diagram of ETL Pipeline for Product dimension *
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesETL.PNG)
 
-*Figure 4: Data-flow diagram for Incremental load of ETL Pipeline for Factsales*
+*Figure 4: Data-flow diagram for Incremental load of ETL Pipeline for Factsales *
 
 ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Control.PNG)
 
-*Figure 5: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent*
+*Figure 5: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent *
 
 ## Datamart was built using SSAS for Business Users
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
 
-*Figure 6: Sales Cube for Multidimensional Analysis*
+*Figure 6: Sales Cube for Multidimensional Analysis *
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/salesTab.PNG)
 
-*Figure 7: Sales Cube for Tabular Analysis*
+*Figure 7: Sales Cube for Tabular Analysis *
 
 ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchaseM.PNG)
 
-*Figure 8: Purchase Cube for Multidimensional Analysis*
+*Figure 8: Purchase Cube for Multidimensional Analysis *
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchaseTab.PNG)
 
-*Figure 9: Purchase Cube for Tabular Analysis*
+*Figure 9: Purchase Cube for Tabular Analysis *
 
 ## Reports were generated using SSRS
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/ReportS.PNG)
 
-*Figure 6: Sales Analysis*
+*Figure 6: Sales Analysis *
 
 ## Data Analysis in PowerBI
 
@@ -68,10 +68,10 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchaseModel.PNG)
 
-*Figure 7: Purchase Star Shcema in PowerBI*
+*Figure 10: Purchase Star Schema in PowerBI *
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchasePB.PNG)
 
-*Figure 8: Purchase Analysis *
+*Figure 11: Purchase Analysis *
 
 - End-to-End Solution: Describe the complete solution for this process.
