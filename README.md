@@ -18,9 +18,13 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
  *Figure 2: Data-flow diagram of ETL Pipeline for Product dimension*
 
-![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Control.PNG)
+ ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Sales.PNG)
 
 *Figure 3: Data-flow diagram for Incremental load of ETL Pipeline for Factsales*
+
+![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Control.PNG)
+
+*Figure 3: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent*
 
 
 ## Process 1: [Sales Analysis]
