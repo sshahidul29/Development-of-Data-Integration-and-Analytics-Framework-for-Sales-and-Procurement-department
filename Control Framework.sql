@@ -94,7 +94,7 @@ values
 
 
 --------- Control Metrics----------
-USE TescaControl
+USE ABCControl
 Create table Control.Metrics
 (
 MetricsID bigint identity(1,1),
