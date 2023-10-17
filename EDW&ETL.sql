@@ -1,32 +1,33 @@
 ---------Create Staging DataBase-----------
-IF NOT EXISTS (SELECT Name FROM sys.databases WHERE Name = 'TescaStaging')
-	CREATE DATABASE TescaStaging
+IF NOT EXISTS (SELECT Name FROM sys.databases WHERE Name = 'ABCStaging')
+	CREATE DATABASE ABCStaging
 ELSE
 	Print ('database already exist')
 
 
 --------Create DataWarehouse DataBase----------
 
- IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = 'TescaEDW')
+ IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = 'ABCEDW')
 	CREATE DATABASE TescaEDW
 ELSE
 	Print ('database already exist')
 
 -----------Create Control Database-----------
-IF NOT EXISTS (SELECT Name FROM sys.databases WHERE Name = 'TescaControl')
-	CREATE DATABASE TescaControl
+IF NOT EXISTS (SELECT Name FROM sys.databases WHERE Name = 'ABCControl')
+	CREATE DATABASE ABCControl
 ELSE
 	Print ('database already exist')
 
 ----------Create the Schemas-------------
-USE TescaStagging
+USE ABCStagging
 CREATE SCHEMA Stagging
 
 
-USE [TescaEDW]
+USE [ABCEDW]
 CREATE SCHEMA EDW
 
 
+	
 ------------ Creating the Date Dimesion Table-----------
 CREATE TABLE EDW.DimDate
 (
