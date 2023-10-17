@@ -46,7 +46,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
 *Figure 5: Sales Cube for Tabular Analysis*
 
- ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/salesPB4.PNG)
+ ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB4.PNG)
 
 *Figure 5: Sales Cube for Tabular Analysis*
 
