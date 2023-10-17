@@ -4,7 +4,7 @@ This project aims to empower our retail client with data-driven insights and dec
 It comprises two distinct **Business Processes**, each with its own end-to-end analysis, design, and development.
 ### Business Processes are 1. Sales Analysis and 2. Purchase Analysis
 
-## Enterprise Data Warehouse was built in MySQL Server using SSMS
+## Enterprise Data Warehouse was built in MSSQL Server using SSMS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
 Figure 1: Sales and Purchase Galaxyschema Schema
 
