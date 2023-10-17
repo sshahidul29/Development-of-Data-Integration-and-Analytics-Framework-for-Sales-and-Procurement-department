@@ -5,6 +5,12 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 ### Business Processes are 1. Sales Analysis and 2. Purchase Analysis
 
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
+- Led complete database lifecycle management including installation, upgrade, troubleshooting, migration, and security.
+- Conducted stakeholder analysis and requirements gathering sessions, aligning data with business needs.
+- Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
+- Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
+- Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
+
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
 Figure 1: Sales and Purchase Galaxyschema Schema
 
@@ -12,7 +18,7 @@ Figure 1: Sales and Purchase Galaxyschema Schema
 - The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source.
 - Wrote ETL packages to extract, transform and load data from the OLEDB source to Staging and staging to EDW Databases.
 - Created a metric table for an audit of Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
-- Created a server agent to schedule the loading of Staging, and Warehouse Database.
+- Created a server agent to schedule the loading of Staging and Warehouse Database.
 
   
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
