@@ -1,11 +1,11 @@
 -------ETL Control Framework-------
 -----------Create Control database----------
-IF NOT EXISTS(SELECT Name FROM sys.databases WHERE Name = 'TescaControl')
-	CREATE DATABASE TescaControl
+IF NOT EXISTS(SELECT Name FROM sys.databases WHERE Name = 'ABCControl')
+	CREATE DATABASE ABCControl
 ELSE
 	print('Database already exist')
 
-use TescaControl
+use ABCControl
 CREATE SCHEMA Control
 
 
