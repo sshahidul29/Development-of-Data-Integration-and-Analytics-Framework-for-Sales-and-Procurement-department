@@ -34,21 +34,21 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/ReportS.PNG)
 
-*Figure 5: Sales Cube for Tabular Analysis*
+*Figure 6: Sales Analysis*
 
 ### Data Analysis samples using PowerBI
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB1.PNG)
 
-*Figure 4: Sales Cube for Multidimensional Analysis*
+*Figure 7: Sales Analysis*
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB2.PNG)
 
-*Figure 5: Sales Cube for Tabular Analysis*
+*Figure 8: Tooltip Net Pay by Days *
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB4.PNG)
 
-*Figure 5: Sales Cube for Tabular Analysis*
+*Figure 9: Customer Basket Analysis Sales*
 
 ### Process 2: [Purchase Analysis]
 
