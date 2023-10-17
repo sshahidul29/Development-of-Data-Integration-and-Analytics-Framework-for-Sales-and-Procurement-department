@@ -50,28 +50,28 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/ReportS.PNG)
 
-*Figure 6: Sales Analysis *
+*Figure 10: Sales Analysis *
 
 ## Data Analysis in PowerBI
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB1.PNG)
 
-*Figure 7: Sales Analysis*
+*Figure 11: Sales Analysis *
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB2.PNG)
 
-*Figure 8: Tooltip Net Pay by Days *
+*Figure 12: Tooltip Net Pay by Days *
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB4.PNG)
 
-*Figure 9: Customer Basket Analysis Sales*
+*Figure 13: Customer Basket Analysis Sales*
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchaseModel.PNG)
 
-*Figure 10: Purchase Star Schema in PowerBI *
+*Figure 14: Purchase Star Schema in PowerBI *
 
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchasePB.PNG)
 
-*Figure 11: Purchase Analysis *
+*Figure 15: Purchase Analysis *
 
 - End-to-End Solution: Describe the complete solution for this process.
