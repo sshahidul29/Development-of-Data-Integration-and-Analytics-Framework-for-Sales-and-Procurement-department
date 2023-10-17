@@ -68,3 +68,53 @@ SET NOCOUNT ON
 		SELECT @CurrentDay = @CurrentDay+1
 	END
 END
+
+----------------- Creating the Time Dimesion Table------------
+USE ABCEDW
+Create Table EDW.DimTime
+ (
+   TimeSK int identity(1,1),
+   TimeHour int,   ---- 0  to 23
+   TimeInterval nvarchar(20) not null, 
+   BusinessHour nvarchar(20) not null,
+   PeriodofDay  nvarchar(20) not null,
+   LoadDate datetime default getdate(),
+   constraint Edw_dimTime_sk primary key(TimeSk)
+ )
+
+
+ ---------Insert Data dynamically into the Time dimension table using a stored Procedure----------
+Create or Alter procedure EDW.dimTimeGenerator
+AS
+BEGIN
+SET NOCOUNT ON
+ declare  @currentHour int= 0
+   IF OBJECT_ID('EDW.dimTime') is not null
+    TRUNCATE TABLE EDW.dimTime
+
+ WHILE @currentHour<=23
+ BEGIN
+	
+	insert into  EDW.dimTime(TimeHour,TimeInterval,BusinessHour,PeriodofDay,LoadDate)
+	select @currentHour, right(concat('0',@currentHour),2)+':00-'+right(concat('0',@currentHour),2)+':59',
+		case 
+			When (@currentHour>=0 and @currentHour<=7 )  or (@currentHour>=18 and @currentHour<=23 ) Then 'Closed'	
+			Else 'Open'
+		END, 
+		case 
+			When @currentHour =0 Then 'MidNight'
+			When @currentHour>=1 and @currentHour<=4 Then 'Early Morning'
+			When @currentHour>=5 and @currentHour<=11 Then 'Morning'
+		    When @currentHour=12 Then 'Noon'
+			When @currentHour>=13 and @currentHour<=17 Then 'Afternoon'
+			When @currentHour>=18 and @currentHour<=21 Then 'Evening'
+			ElSE  'Night'
+		END, getdate()
+			   
+	select @currentHour=@currentHour+1
+ END
+END
+
+exec EDW.dimTimeGenerator '20301231'
+
+
