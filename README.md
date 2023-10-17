@@ -7,7 +7,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 
 ## Enterprise Data Warehouse was built in MySQL Server using SSMS
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
-*Figure 1: Sales and Purchase Galaxyschema Schema *
+Figure 1: Sales and Purchase Galaxyschema Schema
 
 ## ETL Pipeline was built in Visual Studio using SSIS
 - The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source.
