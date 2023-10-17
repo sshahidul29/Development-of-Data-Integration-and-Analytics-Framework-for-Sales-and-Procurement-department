@@ -76,5 +76,3 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchasePB.PNG)
 
 *Figure 15: Purchase Analysis *
-
-- End-to-End Solution: Describe the complete solution for this process.
