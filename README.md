@@ -10,13 +10,18 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 *Figure 1: Sales and Purchase Galaxyschema Schema*
 
 ### ETL Pipeline was built in Visual Studio using SSIS
+  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
+
+ *Figure 2: Sales ETL Pipeline for Product dimension*
+
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Product.PNG)
 
  *Figure 2: Sales ETL Pipeline for Product dimension*
 
-![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesETL.PNG)
+![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Control.PNG)
 
 *Figure 3: Incremental load of ETL Pipeline for Factsales*
+
 
 ## Process 1: [Sales Analysis]
 
