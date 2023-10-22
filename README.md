@@ -21,7 +21,7 @@ Data Management and Processes involved with
 - Data Retention Policy
 - Master Data Management
 
-## Enterprise Data Warehouse was built in MSSQL Server using SSMS
+## Enterprise Data Warehouse was built in MS SQL Server using SSMS
 - Led complete database lifecycle management including installation, upgrade, troubleshooting, migration, and security.
 - Conducted in collaboration with Managers, Project Managers, Technical Product Managers, Clients, Subject-matter experts and Data Governance representatives to obtain requirements, objectives, and business rules for the project.
 - Conducted data profiling.
@@ -89,7 +89,9 @@ Figure 10: Sales Analysis
 
 ## Data Analysis in PowerBI
 
-- Modeled data based on Star and Snowflake Schema to enhance data accessibility. 
+- Modeled data based on Star and Snowflake Schema to enhance data accessibility.
+- Working with complex DAX formulas to create required Measures, Calculated Columns and KPIs for analysis and reporting purposes.
+- Implemented visualization best practices by creating measures instead of calculated columns where necessary. This reduced the overall size and improved the performance of reports.
 - Created interactive Power BI dashboard and reports for informed decision-making.
    
  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesPB1.PNG)
