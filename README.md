@@ -23,10 +23,10 @@ Data Management and Processes involve with
 
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
 - Led complete database lifecycle management including installation, upgrade, troubleshooting, migration, and security.
-- Work closely with Managers, Project Managers, Technical Product Managers, clients, and subject-matter experts to obtain requirements, objectives, and business rules for projects.
-- Conducted stakeholder analysis and requirements gathering sessions, aligning data with business needs.
-- Designed Conceptual and Logical data models for the OLTP Operational Data Store (ODS) and implemented Physical Data models using Bill Inmon’s Relational Modeling Techniques in the MS SQL Server using SSMS.
+- Conducted in collaboration with Managers, Project Managers, Technical Product Managers, clients, subject-matter experts and data governance representatives to obtain requirements, objectives, and business rules for the project.
 - Created the opportunity/stakeholder Matrix (it helps identify which business groups should be invited to the collaborative design sessions for each process-centric row).
+- Conducted stakeholder analysis and requirements gathering sessions, aligning data with business needs.
+- Constructed bubble chart 
 - Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
 - Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
@@ -37,7 +37,7 @@ Figure 1: Sales and Purchase Galaxyschema Schema
 ## ETL Pipeline was built in Visual Studio using SSIS
 
 - The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source.
-- Wrote ETL packages to extract, transform and load data from the OLEDB source to Staging and staging to EDW Databases.
+- Wrote ETL packages to extract, transform and load data from the OLE DB source to Staging and staging to EDW Databases.
 - Created a metric table for an audit of Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
 - Implemented server agent for automated data loading and scheduling.
 
