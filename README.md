@@ -21,6 +21,9 @@ Data Management and Processes involved with
 - Data Retention Policy
 - Master Data Management
 
+## System Development Life Cycle (SDLC)
+- Agile Scrum Methodology
+
 ## Enterprise Data Warehouse was built in MS SQL Server using SSMS
 - Led complete database lifecycle management including installation, upgrade, troubleshooting, migration, and security.
 - Conducted in collaboration with Managers, Project Managers, Technical Product Managers, Clients, Subject-matter experts and Data Governance representatives to obtain requirements, objectives, and business rules for the project.
