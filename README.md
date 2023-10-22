@@ -46,7 +46,7 @@ Figure 1: Sales and Purchase Galaxyschema Schema
 - Created a metric table for an audit of Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
 - Design and Implement Ralph Kimball slowly changing dimension (SCD) Type 1 and 2.
 - Troubleshooting and root cause analysis activities to fix bugs in the data integration process.
-- Used the server agent to automate the ETL processes to ensure new data were loaded automatically into the data Warehouse.
+- Used the server agent to automate the ETL processes to ensure new data were loaded automatically into the Data Warehouse.
 
   
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
