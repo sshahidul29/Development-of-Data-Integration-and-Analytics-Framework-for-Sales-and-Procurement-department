@@ -15,7 +15,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 - Windows OS
 
 ## Data Management and Processes
-Data Management and Processes involve with
+Data Management and Processes involved with
 - Data Governance
 - Data Quality and Validation
 - Data Retention Policy
@@ -24,8 +24,8 @@ Data Management and Processes involve with
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
 - Led complete database lifecycle management including installation, upgrade, troubleshooting, migration, and security.
 - Conducted in collaboration with Managers, Project Managers, Technical Product Managers, clients, subject-matter experts and data governance representatives to obtain requirements, objectives, and business rules for the project.
+- Conducted data profiling.
 - Created the opportunity/stakeholder Matrix (it helps identify which business groups should be invited to the collaborative design sessions for each process-centric row).
-- Conducted stakeholder analysis and requirements gathering sessions, aligning data with business needs.
 - Constructed bubble chart 
 - Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
