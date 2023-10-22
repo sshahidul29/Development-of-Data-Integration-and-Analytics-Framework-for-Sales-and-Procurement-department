@@ -32,9 +32,10 @@ Data Management and Processes involved with
 - Constructed a Bubble Chart for communicating data models to a non-technical audience. 
 - Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
-- Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
-
-  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
+- Created and configured Staging, EDW, and Control Framework databases on MS SQL Server.
+- Responsible for Database Backup and Recovery, Backup Strategies and Scheduling Backups.
+- Responsible for Database performance tuning, problem diagnosis and resolution.
+![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Galaxyschema.PNG)  
 Figure 1: Sales and Purchase Galaxyschema Schema
 
 ## ETL Pipeline was built in Visual Studio using SSIS
