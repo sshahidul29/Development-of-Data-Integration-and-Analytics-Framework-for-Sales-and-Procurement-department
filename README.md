@@ -15,7 +15,7 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 - Windows OS
 
 ## Data Management and Processes
-- Data Management and Processes
+Data Management and Processes involve with
 - Data Governance
 - Data Quality and Validation
 - Data Retention Policy
