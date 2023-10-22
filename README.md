@@ -40,10 +40,12 @@ Figure 1: Sales and Purchase Galaxyschema Schema
 ## ETL Pipeline was built in Visual Studio using SSIS
 
 - The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLE DB source.
-- Wrote ETL packages to extract, transform and load data from the OLE DB source to Staging and staging to EDW Databases.
+- Produced ETL Mapping and Transformation Rules and data Quality documentation for the project.
+- Developed and tested ETL processes/programs necessary to extract data from different data sources, Transformed and cleansed the data, and loaded it into a Staging database and Staging to Data Warehouse, using connection managers like OLE DB, Excel, Flat file, and ADO.NET.
 - Created a metric table for an audit of Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
+- Design and Implement Ralph Kimball slowly changing dimension (SCD) Type 1 and 2.
 - Troubleshooting and root cause analysis activities to fix bugs in the data integration process.
-- Implemented server agent for automated data loading and scheduling.
+- Used the server agent to automate the ETL processes to ensure new data were loaded automatically into the data Warehouse.
 
   
   ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
