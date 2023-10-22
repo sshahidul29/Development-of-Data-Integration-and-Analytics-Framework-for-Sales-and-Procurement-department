@@ -4,6 +4,12 @@ This project aims to empower our retail client with data-driven insights and dec
 It comprises two distinct **Business Processes**, each with its own end-to-end analysis, design, and development.
 ### Business Processes are 1. Sales Analysis and 2. Purchase Analysis
 
+## Achievement:
+- Development of a robust data warehouse to retrieve data for further analysis.
+- The virtualizations and dashboards helped the Sales Manager monitor the movement of products and assess how promotional activities influence sales.
+- The Sales manager benefitted greatly from data analysis. It helped them understand customer shopping habits, and the dashboard provided insights into product combinations, sales opportunities, and customer behaviour.
+- The Sales Manager was also able to determine the most in-demand products during specific times of the day.
+
 ## Software requirements:
 - MS SQL Server, SSMS, SSIS, SSAS, SSRS, Power BI, Tableau, Visual Studio and Dax Studio
 - Windows OS
