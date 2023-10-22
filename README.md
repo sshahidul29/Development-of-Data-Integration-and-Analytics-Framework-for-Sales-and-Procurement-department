@@ -14,6 +14,13 @@ It comprises two distinct **Business Processes**, each with its own end-to-end a
 - MS SQL Server, SSMS, SSIS, SSAS, SSRS, Power BI, Tableau, Visual Studio and Dax Studio
 - Windows OS
 
+## Data Management and Processes
+- Data Management and Processes
+- Data Governance
+- Data Quality and Validation
+- Data Retention Policy
+- Master Data Management
+
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
 - Led complete database lifecycle management including installation, upgrade, troubleshooting, migration, and security.
 - Work closely with Managers, Project Managers, Technical Product Managers, clients, and subject-matter experts to obtain requirements, objectives, and business rules for projects.
