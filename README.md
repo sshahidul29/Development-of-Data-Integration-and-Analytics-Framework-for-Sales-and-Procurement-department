@@ -4,7 +4,7 @@ This project aims to empower our retail client with data-driven insights and dec
 It comprises two distinct **Business Processes**, each with its own end-to-end analysis, design, and development.
 ### Business Processes are 1. Sales Analysis and 2. Purchase Analysis
 
-## Achievement:
+## Contributions:
 - Developed a robust data warehouse for accessing data for business analysis purposes.
 - The virtualizations and dashboards helped the Sales Manager monitor the movement of products and assess how promotional activities influence sales.
 - The Sales manager benefitted greatly from data analysis. It helped them understand customer shopping habits, and the dashboard provided insights into product combinations, sales opportunities, and customer behaviour.
